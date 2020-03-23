@@ -1,3 +1,3 @@
-# repositorio personal de materiales Bootcamp The Bridge
+# Personal repository The Bridge Data Science BootCamp Feb 2020
 
-Materiales para The Bridge Data Science Bootcamp projects
+Files and materials used for The Bridge Data Science Bootcamp projects
